@@ -1,0 +1,12 @@
+{
+    "name": "almhdy/async-file-uploader",
+    "description": "An asynchronous file uploader library in PHP 8.1",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "AsyncFileUploader\\": "src/"
+        }
+    }
+}
