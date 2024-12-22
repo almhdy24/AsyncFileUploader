@@ -16,7 +16,7 @@ Welcome to the **AsyncFileUploader** project! This amazing PHP library makes it 
 You can include `AsyncFileUploader` in your project using Composer:
 
 ```bash
-composer require your-vendor/async-file-uploader
+composer require almhdy/async-file-uploader
 ```
 
 Ensure your upload directory is writable! 🛠️
